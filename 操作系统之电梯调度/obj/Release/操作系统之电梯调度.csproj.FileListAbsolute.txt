@@ -1,0 +1,17 @@
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\bin\Release\操作系统之电梯调度.exe
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\bin\Release\操作系统之电梯调度.pdb
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\obj\Release\操作系统之电梯调度.HumanBeing.resources
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\obj\Release\操作系统之电梯调度.Properties.Resources.resources
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\obj\Release\操作系统之电梯调度.csproj.GenerateResource.cache
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\obj\Release\操作系统之电梯调度.csproj.CoreCompileInputs.cache
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\obj\Release\操作系统之电梯调度.exe
+C:\Users\14218\Desktop\操作系统之电梯调度\操作系统之电梯调度\obj\Release\操作系统之电梯调度.pdb
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\bin\Release\操作系统之电梯调度.exe
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\bin\Release\操作系统之电梯调度.pdb
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\obj\Release\操作系统之电梯调度.csproj.AssemblyReference.cache
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\obj\Release\操作系统之电梯调度.HumanBeing.resources
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\obj\Release\操作系统之电梯调度.Properties.Resources.resources
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\obj\Release\操作系统之电梯调度.csproj.GenerateResource.cache
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\obj\Release\操作系统之电梯调度.csproj.CoreCompileInputs.cache
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\obj\Release\操作系统之电梯调度.exe
+D:\OS_proj\Elevator\电梯调度工程\操作系统之电梯调度\obj\Release\操作系统之电梯调度.pdb
